@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Pariitosh/Assignment/static/css/main.49c94a05.css",
-    "main.js": "/Pariitosh/Assignment/static/js/main.6be34207.js",
+    "main.js": "/Pariitosh/Assignment/static/js/main.507676f3.js",
     "index.html": "/Pariitosh/Assignment/index.html",
     "main.49c94a05.css.map": "/Pariitosh/Assignment/static/css/main.49c94a05.css.map",
-    "main.6be34207.js.map": "/Pariitosh/Assignment/static/js/main.6be34207.js.map"
+    "main.507676f3.js.map": "/Pariitosh/Assignment/static/js/main.507676f3.js.map"
   },
   "entrypoints": [
     "static/css/main.49c94a05.css",
-    "static/js/main.6be34207.js"
+    "static/js/main.507676f3.js"
   ]
 }
